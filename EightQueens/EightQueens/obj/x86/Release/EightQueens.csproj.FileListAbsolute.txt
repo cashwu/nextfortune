@@ -1,0 +1,8 @@
+C:\Users\DADA\AppData\Local\Temporary Projects\EightQueens\bin\Release\EightQueens.exe
+C:\Users\DADA\AppData\Local\Temporary Projects\EightQueens\bin\Release\EightQueens.pdb
+C:\Users\DADA\AppData\Local\Temporary Projects\EightQueens\obj\x86\Release\EightQueens.exe
+C:\Users\DADA\AppData\Local\Temporary Projects\EightQueens\obj\x86\Release\EightQueens.pdb
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\DADA_Project\EightQueens\EightQueens\obj\x86\Release\EightQueens.exe
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\DADA_Project\EightQueens\EightQueens\obj\x86\Release\EightQueens.pdb
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\DADA_Project\EightQueens\EightQueens\bin\Release\EightQueens.exe
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\DADA_Project\EightQueens\EightQueens\bin\Release\EightQueens.pdb
